@@ -1,0 +1,7 @@
+{
+  "name": "localizadorSitios",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
